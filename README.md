@@ -30,3 +30,10 @@ The object of the the application is to help users decide on a game to play. The
     1. `npm run dev` - This begins the Express server on localhost port 5000.
 1. Then, open a new terminal in the `frontend` folder of the project and run the `npm run dev` command from there. This starts the frontend UI on localhost port 5173.
 1. Lastly, open a browser and go to http://localhost:5173 .
+
+
+## Images:
+### PlayPal Home Screen:
+![PlayPal Application Home Screen Example](homepage.png "PlayPal Home Screen")
+### PlayPal Add a Game Page: 
+![PlayPal Application Add a Game Example](addpage.png "PlayPal Add a Game Page")
